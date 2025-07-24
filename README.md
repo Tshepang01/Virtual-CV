@@ -1,6 +1,6 @@
 # Virtual CV Portfolio – Tshepang Mashiya
 
-This is my personal virtual CV website, developed as part of my CMPG323 Individual Assignment. It is designed to showcase my academic background, technical skills, work experience, and projects — all hosted and viewable online.
+This is my personal virtual CV website. It is designed to showcase my academic background, technical skills, work experience, and projects.
 
 🔗 **Live Website**: [https://tshepang01.github.io/Virtual-CV/](https://tshepang01.github.io/Virtual-CV/)
 
@@ -36,3 +36,7 @@ This responsive website was built using the **Start Bootstrap Resume Template**,
 
 ## Repository Structure
 
+## Contact Information
+📧 Email: tmashiya17@gmail.com
+💼 LinkedIn: 
+💻 GitHub: 
