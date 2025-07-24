@@ -2,7 +2,7 @@
 
 This is my personal virtual CV website. It is designed to showcase my academic background, technical skills, work experience, and projects.
 
-🔗 **Live Website**: [https://tshepang01.github.io/Virtual-CV/](https://tshepang01.github.io/Virtual-CV/)
+**Live Website**: [https://tshepang01.github.io/Virtual-CV/](https://tshepang01.github.io/Virtual-CV/)
 
 ---
 
@@ -37,6 +37,8 @@ This responsive website was built using the **Start Bootstrap Resume Template**,
 ## Repository Structure
 
 ## Contact Information
-📧 Email: tmashiya17@gmail.com
-💼 LinkedIn: 
-💻 GitHub: 
+- 📧 Email: tmashiya17@gmail.com
+- 💼 LinkedIn:[Tshepang Mashiya](https://www.linkedin.com/in/tshepang-mashiya-b18a92237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💻 GitHub:[@Tshepang01](https://github.com/Tshepang01)
+https://www.linkedin.com/in/tshepang-mashiya-b18a92237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+                        
